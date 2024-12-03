@@ -1,21 +1,21 @@
-#1. Project Title
+# 1. Project Title
 
 FoodHub Data Analysis Project
 
-#2. Introduction
+# 2. Introduction
 
 Provide a brief overview of the project:
 
 "This project analyses operational data for FoodHub to identify patterns, improve efficiency, and drive business insights. It includes data cleaning, analysis, and visualisation tasks to optimise delivery times and customer satisfaction."
 
 
-#3. Purpose
+# 3. Purpose
 
 Explain why you conducted the project:
 
 "The goal of this project was to reduce operational inefficiencies and provide actionable insights to enhance the decision-making process for FoodHub's management."
 
-#4. Features
+# 4. Features
 
 Highlight the main functionalities:
 
@@ -25,7 +25,7 @@ Highlight the main functionalities:
 - Interactive visualisations using tools like Matplotlib or Power BI.
 
 
-#5. Technologies Used
+# 5. Technologies Used
 
 List the tools and programming languages:
 
@@ -33,27 +33,27 @@ List the tools and programming languages:
 - Jupyter Notebook for development.
 - Power BI for visual reporting.
 
-#6. Data Sources
+# 6. Data Sources
 
 dataset used is uploaded in github :
 
 "The data was collected from FoodHub's internal systems, including delivery logs, customer feedback, and revenue metrics."
 
-#7. How to Run the Project
+# 7. How to Run the Project
  instructions for setting up and running the analysis:
 
 - Clone the repository: git clone [repository link]
 - Install dependencies: pip install -r requirements.txt
 - Open the Jupyter Notebook file: FoodHub_Analysis.ipynb
 
-#8. Results
+# 8. Results
 
 Summary outcomes of my analysis:
 
 - Delivery times were reduced by 15%.
 - Insights on peak operational hours and customer preferences were identified.
   
-#9. Future Improvements
+# 9. Future Improvements
 
 Suggested areas for further development:
 
@@ -61,13 +61,13 @@ Suggested areas for further development:
 - Enhanced predictive modelling techniques.
 
   
-#10. Acknowledgements
+# 10. Acknowledgements
 
 Acknowledge contributions:
 
 "This project was conducted as part of a volunteering effort for FoodHub."
 
-#11. Contact
+# 11. Contact
 
  contact information:
 
